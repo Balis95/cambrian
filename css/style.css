@@ -1,0 +1,145 @@
+.bg{
+    background: red !important;
+    padding-top:10px !important;
+    height: 54px !important;
+}
+.widget{
+    color: white !important;
+    text-align: center !important;
+    padding-left: 10px !important;
+}
+
+.widget ul li{
+    position:relative;
+    list-style: none !important;
+    font-weight: bold;
+}
+.btn{
+    background: white !important;
+}
+.btn a{
+    color: black !important;
+    text-decoration: none !important;
+   
+}
+
+.leftcontent{
+    height: 550px;
+   
+   
+}
+.leftcontent h1{
+    padding: 15px 25px;
+}
+.mdi{
+   width: 495px;
+   height: 300px;
+}
+.leftcontent h4{
+    color: black;
+}
+.leftcontent span{
+    color: black;
+}
+.midcontent{
+    height: 550px;
+   
+    
+}
+.midcontent h1{
+    padding: 15px 25px;
+}
+.midtext{
+    color: black;
+    text-align: justify;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.rifgtcontent{
+    height: 550px;
+  
+    background: lightgray;
+}
+.rifgtcontent h1{
+    padding: 15px 25px;
+}
+
+
+.mainyou{
+    background: whitesmoke !important;
+}
+
+.whayyou{
+    background: whitesmoke !important;
+}
+.whayyou h1{
+    padding-top: 20px;
+    color: red;
+}
+.item{
+    margin: 40px 30px;
+    height: 300px;
+    padding-top: 10px;
+}
+
+
+.ocontent{
+    height: 550px;
+}
+.fcontent{
+    height: 550px;
+    background: lightgray;
+}
+.free{
+    height: 45px;
+    background: red;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: white;
+}
+#name{
+    height: 50px;
+    width: 100%;
+}
+#massage{
+    height: 70px;
+}
+#submitr{
+    width: 100%;
+    color: black;
+}
+
+.midlink li{
+    list-style: none;
+}
+.midlink li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+.rightlink ul{
+    list-style: none;
+}
+.rightlink li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+.lastlink li{
+    list-style: none;
+}
+.lastlink li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+
+.bg-gray{
+    background: #2B3037 !important;    
+}
+.cdd{
+    color: #777765 !important;
+}
